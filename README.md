@@ -21,7 +21,7 @@
   <h2>Usage</h2>
   <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/Aarush1137/Responsive_Form.git</code></pre>
+    <pre><code>git clone https://github.com/exeayush18/Responsive_Form.git</code></pre>
     <li>Navigate to the project directory:</li>
     <pre><code>cd Responsive_Form</code></pre>
     <li>Open <code>index.html</code> in your preferred web browser.</li>
